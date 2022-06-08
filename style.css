@@ -1,2 +1,21 @@
-####style1
-#### style2
+p{
+    color:blue ;
+}
+.main-para{
+    color: crimson;
+}
+
+#special{
+    color: aqua;
+}
+.List{
+    background-color: bisque;
+    border: 1pt solid black;
+    padding: 5px;
+}
+.List.ListItem{
+    color: red;
+}
+.ListItem{
+    color: orange;
+}

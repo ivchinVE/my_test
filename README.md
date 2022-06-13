@@ -1,1 +1,1 @@
-https://ivchinVE.github.io/rsschool-cv/
+https://ivchinVE.github.io/my_test
